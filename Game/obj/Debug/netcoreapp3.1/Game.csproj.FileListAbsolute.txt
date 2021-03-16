@@ -1,0 +1,9 @@
+C:\Users\zps98\source\repos\trrp2\Game\bin\Debug\netcoreapp3.1\Game.deps.json
+C:\Users\zps98\source\repos\trrp2\Game\bin\Debug\netcoreapp3.1\Game.dll
+C:\Users\zps98\source\repos\trrp2\Game\bin\Debug\netcoreapp3.1\Game.pdb
+C:\Users\zps98\source\repos\trrp2\Game\obj\Debug\netcoreapp3.1\Game.csprojAssemblyReference.cache
+C:\Users\zps98\source\repos\trrp2\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfoInputs.cache
+C:\Users\zps98\source\repos\trrp2\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfo.cs
+C:\Users\zps98\source\repos\trrp2\Game\obj\Debug\netcoreapp3.1\Game.csproj.CoreCompileInputs.cache
+C:\Users\zps98\source\repos\trrp2\Game\obj\Debug\netcoreapp3.1\Game.dll
+C:\Users\zps98\source\repos\trrp2\Game\obj\Debug\netcoreapp3.1\Game.pdb
